@@ -2,7 +2,9 @@
 
 ## Running the Application
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg) ](https://codespaces.new/coderonfleek/simple-node-api)
+[![Open in Github Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/polajit/simple-node-api)
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg) ](https://codespaces.new/polajit/simple-node-api)
 
 1. Run `npm install`
 2. Run `node server`
